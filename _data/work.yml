@@ -5,13 +5,13 @@ work:
   - category: Cyber Security
     items:
       - item: example.html
-        image: /images/da.jpg # optionally, include the file path for an image for each item
+        image: /images/da.png # optionally, include the file path for an image for each item
       - item: example.html
-        image: /images/ds.jpg
+        image: /images/ds.png
       - item: example2.html
-        image: /images/dv.jpg
+        image: /images/dv.png
       - item: example3.html
-        image: /images/de.jpg
+        image: /images/de.png
   - category: Los Angeles
     items:
       - item: example.html
