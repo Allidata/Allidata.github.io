@@ -42,9 +42,16 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **Allidata**?  
+### Why **Allidata**?  
 
-### **Allidata** has a simple goal
+## Our mission
+# **Allidata** has a simple goal - solving your problems through Data Science Excellence. Our mission has been honed through our time working in the public sector and international organisations. We know exactly how complicated your data can be, and know the quick wins
+
+## Our ethos
+# We believe that data underpins everything and that having a good understanding of your data is really good.
+
+# That's why we run training programs, from a beginner's 1-day Intro to Analysis with Python through to Interactive Data Visualisation. If you're a charity or not-for-profit, ask us about our discounted rate!
+
+# That's also why we like to share our work and code, when we can. See our [Medium]() page for recent projects. 
 
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
