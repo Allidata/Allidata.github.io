@@ -1,0 +1,14 @@
+# this file organizes the items in your portfolio, which are placed in the _includes folder
+# in the root directory
+
+work:
+  - category: Cyber Security
+    items:
+      - item: example.html
+        image: /images/da.png # optionally, include the file path for an image for each item
+      - item: example.html
+        image: /images/ds.png
+      - item: example2.html
+        image: /images/dv.png
+      - item: example3.html
+        image: /images/de.png
