@@ -4,11 +4,11 @@
 work:
   - category: Cyber Security
     items:
-      - item: example.html
-        image: /images/da.png # optionally, include the file path for an image for each item
-      - item: example.html
-        image: /images/ds.png
-      - item: example2.html
-        image: /images/dv.png
-      - item: example3.html
+      - item: ds.html
+        image: /images/ds.png # optionally, include the file path for an image for each item
+      - item: da.html
+        image: /images/da.png
+      - item: de.html
         image: /images/de.png
+      - item: dv.html
+        image: /images/dv.png
