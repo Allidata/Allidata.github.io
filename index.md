@@ -37,12 +37,13 @@ portfolio_description: Our time in the industry has given us experience across t
 # By declaring these variables, you can include a CTA section.
 cta: Get in touch # the heading for your CTA section
 cta_description: We'd love to hear from you # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
+cta_button: mailto:query@allidata.uk # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
 ### Why **Allidata**?  
+# We are a best-in-class Data Consultancy and Company, covering the entire Data Science ecosystem.
 
 ## Our mission
 # **Allidata** has a simple goal - solving your problems through Data Science Excellence. Our mission has been honed through our time working in the public sector and international organisations. We know exactly how complicated your data can be, and know the quick wins
